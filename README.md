@@ -168,7 +168,7 @@ PAGINA WEB - PROYECTO FINAL
 <body>
 
   <header>
-    <img src="C:\Users\LENOVO\Downloads\IMAGENES JDS\LOGOS\01_Santistevan\Transparentes\09_Logo Blanco Azul Vertical.png" alt="Logo" class="logo">
+    <img src="09_Logo Blanco Azul Vertical.png" alt="Logo" class="logo">
     <h1>Unidad Educativa José Domingo de Santistevan</h1>
     <h3>Formando líderes con valores y excelencia académica</h3>
   </header>
